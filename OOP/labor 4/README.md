@@ -1,0 +1,1 @@
+g++ main.cpp lab4.cpp -I//wsl.localhost/Ubuntu-24.04/usr/include/SFML -o Lab4 -lsfml-graphics -lsfml-window -lsfml-system -std=c++11
