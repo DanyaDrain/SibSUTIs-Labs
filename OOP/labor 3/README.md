@@ -1,1 +1,1 @@
-Запуск $ g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system
+Компиляция $ g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system
